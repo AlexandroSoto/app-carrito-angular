@@ -1,0 +1,1 @@
+export const NUMERO_WHATSAPP = +521234567899
